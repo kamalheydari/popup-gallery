@@ -3,7 +3,7 @@
 ## Demo
 
 See demo on github pages
-[Image Gallery PopUp]()
+[Image Gallery PopUp](https://kamalheydari.github.io/popup-gallery/)
 
 ## Using
 
